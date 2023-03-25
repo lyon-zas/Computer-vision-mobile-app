@@ -1,4 +1,4 @@
-# ai_app
+# Computer vision mobile app
 
 A new Flutter project.
 
